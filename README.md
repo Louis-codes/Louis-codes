@@ -1,4 +1,4 @@
-<h1>Hi, I'm Louis 👋</h1>
+<h1>Louis Gentzsch</h1>
 
 <p>M.Sc. Management & Technology student at TUM, focused on Data Science and AI applications. Passionate about data-driven insights, quantitative problem-solving and applying structured thinking to real-world challenges.</p>
 
@@ -9,10 +9,12 @@
 <h2>About me</h2>
 
 <p>
-🎓 Studying Management & Technology at TUM (Informatics Major & Entrepreneurship)<br>
-🔬 Background in AI Engineering &amp; Industrial Engineering<br>
-📚 Currently exploring Deep Learning, Neural Networks &amp; Applied AI<br>
-🌍 Languages: German, English, Spanish
+<ul>
+  <li>M.Sc. Management & Technology at TUM, specializing in Informatics and Entrepreneurship</li>
+  <li>Background in AI Engineering and Industrial Engineering</li>
+  <li>Currently focused on Deep Learning, Neural Networks and Applied AI</li>
+  <li>Languages: German (native), English (fluent), Spanish (proficient)</li>
+</ul>
 </p>
 
 <h2>Tech Stack</h2>
