@@ -11,7 +11,7 @@
 <p>
 <ul>
   <li>M.Sc. Management & Technology at TUM, specializing in Informatics and Entrepreneurship</li>
-  <li>Background in AI Engineering and Industrial Engineering</li>
+  <li>Background in AI Engineering and and a Bachelor in Industrial Engineering</li>
   <li>Currently focused on Deep Learning, Neural Networks and Applied AI</li>
   <li>Languages: German (native), English (fluent), Spanish (proficient)</li>
 </ul>
