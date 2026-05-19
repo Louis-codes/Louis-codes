@@ -3,7 +3,7 @@
 <p>M.Sc. Management & Technology student at TUM, focused on Data Science and AI applications. Passionate about data-driven insights, quantitative problem-solving and applying structured thinking to real-world challenges.</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/louis-gentzsch/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin" /></a>
 </p>
 
 <h2>About me</h2>
@@ -12,7 +12,7 @@
 🎓 Studying Management & Technology at TUM (Informatics Major & Entrepreneurship)<br>
 🔬 Background in AI Engineering &amp; Industrial Engineering<br>
 📚 Currently exploring Deep Learning, Neural Networks &amp; Applied AI<br>
-🌍 Languages: German, English, Spanish, French
+🌍 Languages: German, English, Spanish
 </p>
 
 <h2>Tech Stack</h2>
@@ -32,9 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="langchain" />&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/121283862?s=200&v=4" height="40" alt="huggingface" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />&nbsp
 </p>
 
 <p><strong>Platforms &amp; Tools</strong></p>
