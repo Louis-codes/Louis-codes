@@ -38,8 +38,6 @@
 <p><strong>Platforms &amp; Tools</strong></p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" height="40" alt="n8n" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Microsoft_Power_Platform_logo.svg" height="40" alt="power platform" />&nbsp;
   <img src="https://lovable.dev/favicon.ico" height="40" alt="lovable" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />&nbsp;
