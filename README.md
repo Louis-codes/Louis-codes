@@ -8,7 +8,7 @@
 
 <h2>About me</h2>
 
-<p>
+      <ul>
 
         <li>M.Sc. Management & Technology at TUM, specializing in Informatics and Entrepreneurship</li>
         <li>Background in AI Engineering and and a Bachelor in Industrial Engineering</li>
