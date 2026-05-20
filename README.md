@@ -20,8 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" />&nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface" />&nbsp;
- <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="langchain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white" alt="langgraph" />
+ <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"  <img src="https://img.shields.io/badge/-1C3C3C?style=flat&logo=langchain&logoColor=white" height="40" alt="langchain" />&nbsp;
+  <img src="https://img.shields.io/badge/-1C3C3C?style=flat&logo=langgraph&logoColor=white" height="40" alt="langgraph" />
 </p>
 <p><strong>Languages &amp; Databases</strong></p>
 <p>
