@@ -19,9 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" />&nbsp;
-  <img src="https://raw.githubusercontent.com/huggingface/brand-assets/main/hf-logo.svg" height="40" alt="huggingface" />&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface" />&nbsp;
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="langchain" />&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="langgraph" />
+  <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" height="40" alt="langgraph" />
 </p>
 <p><strong>Languages &amp; Databases</strong></p>
 <p>
