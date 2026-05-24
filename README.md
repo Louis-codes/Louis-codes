@@ -8,7 +8,7 @@
   <li>M.Sc. Management & Technology at TUM, specializing in Informatics and Entrepreneurship</li>
   <li>Background in AI Engineering and a Bachelor in Industrial Engineering</li>
   <li>Currently focused on Deep Learning, Neural Networks and Applied AI</li>
-  <li>Languages: German (native), English (fluent), Spanish (proficient)</li>
+  <li>Languages: German (native), English (fluent), Spanish (intermediate)</li>
 </ul>
 <h2>Tech Stack</h2>
 <p><strong>AI, ML &amp; Data Science</strong></p>
