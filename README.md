@@ -25,12 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" />&nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface" />
 </p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nltk.svg" height="40" alt="nltk" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spacy.svg" height="40" alt="spacy" />&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gensim.svg" height="40" alt="gensim" />
-</p>
 <p><strong>Languages &amp; Databases</strong></p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />&nbsp;
