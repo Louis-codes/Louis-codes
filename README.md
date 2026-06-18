@@ -27,9 +27,9 @@
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" height="40" alt="nltk" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" height="40" alt="spacy" />&nbsp;
-  <img src="https://api.iconify.design/logos:gensim.svg" height="40" alt="gensim" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nltk.svg" height="40" alt="nltk" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spacy.svg" height="40" alt="spacy" />&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gensim.svg" height="40" alt="gensim" />
 </p>
 <p><strong>Languages &amp; Databases</strong></p>
 <p>
