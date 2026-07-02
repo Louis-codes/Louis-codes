@@ -1,5 +1,5 @@
 <h1>Louis Gentzsch</h1>
-<p>M.Sc. Management & Technology student at TUM, focused on Data Science and AI applications. Passionate about data-driven insights, quantitative problem-solving and applying structured thinking to real-world challenges.</p>
+<p>M.Sc. Management & Technology student at TUM, focused on Data Science, Machine Learning and AI applications. Passionate about data-driven insights, quantitative problem-solving and applying structured thinking to real-world challenges.</p>
 <p>
   <a href="https://www.linkedin.com/in/louis-gentzsch/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin" /></a>
 </p>
