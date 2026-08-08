@@ -7,7 +7,7 @@
 <ul>
   <li>M.Sc. Management & Technology at TUM, specializing in Informatics and Entrepreneurship</li>
   <li>Background in Data Science at Allianz and AI Engineering at BDO and a Bachelor in Industrial Engineering</li>
-  <li>Currently focused on Deep Learning, Neural Networks and Applied AI</li>
+  <li>Currently focused on Deep Learning, Applied AI and Cognitive Systems</li>
   <li>Languages: German (native), English (fluent), Spanish (intermediate)</li>
 </ul>
 <h2>Tech Stack</h2>
