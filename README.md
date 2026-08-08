@@ -6,7 +6,7 @@
 <h2>About me</h2>
 <ul>
   <li>M.Sc. Management & Technology at TUM, specializing in Informatics and Entrepreneurship</li>
-  <li>Background in Data Science at Allianz and AI Engineering at BDO and a Bachelor in Industrial Engineering</li>
+  <li>Background in Data Science at Allianz, AI Engineering at BDO and a Bachelor in Industrial Engineering from the University of Hamburg</li>
   <li>Currently focused on Deep Learning, Applied AI and Cognitive Systems</li>
   <li>Languages: German (native), English (fluent), Spanish (intermediate)</li>
 </ul>
